@@ -38,3 +38,4 @@ network HelloWorld
         Host1.out --> Host2.in;
         Host2.out --> Host1.in;
 }
+testing 1 2
